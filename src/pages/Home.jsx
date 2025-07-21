@@ -1,4 +1,5 @@
 import { TypeAnimation } from "react-type-animation";
+import foto from '/images/foto.jpg';
 
 export default function Home() {
   return(
@@ -40,7 +41,7 @@ export default function Home() {
           </button>
         </p>
         <img
-          src="/meu-portifolio/images/foto.jpg"
+          src={foto}
           alt="Foto de Perfil"
           className="w-[70vw] sm:w-[30vw] max-w-[300px] rounded-full mb-6 sm:mb-0 mt-4"
         />
