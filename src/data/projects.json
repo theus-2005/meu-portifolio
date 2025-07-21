@@ -3,7 +3,7 @@
     "id": 1,
     "title": "Anime Shop",
     "description": "Aplicação de e-commerce fictício focada em produtos de animes, com sistema de busca, layout responsivo e navegação dinâmica. Desenvolvida com React.js, Tailwind CSS e JSON local simulando banco de dados.",
-    "image": "https://theus-2005.github.io/meu-portifolio/images/Anime-Shop.png",
+    "image": "/meu-portifolio/images/Anime-Shop.png",
     "link": "https://theus-2005.github.io/Anime-Shop",
     "github": "https://github.com/theus-2005/Anime-Shop"
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "title": "Anime Collection",
     "description":"Um simulador interativo de coleção de cartas de anime com sistema de roleta e níveis de raridade variados. Permite roletar personagens, filtrar por nome, anime ou raridade, e revela cartas conforme são obtidas, com interface responsiva e modais informativos.",
-    "image": "https://theus-2005.github.io/meu-portifolio/images/Anime-Collection.png",
+    "image": "/meu-portifolio/images/Anime-Collection.png",
     "link": "https://theus-2005.github.io/Anime-Collection",
     "github": "https://github.com/theus-2005/Anime-Collection"
   }
