@@ -40,7 +40,7 @@ export default function Home() {
           </button>
         </p>
         <img
-          src="images/foto.jpg"
+          src="/Anime-Shop/images/foto.jpg"
           alt="Foto de Perfil"
           className="w-[70vw] sm:w-[30vw] max-w-[300px] rounded-full mb-6 sm:mb-0 mt-4"
         />
